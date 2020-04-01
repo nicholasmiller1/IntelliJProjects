@@ -8,4 +8,4 @@ A small program containing a few methods that implement common compression and d
 
 ## *Rubik's Cube*
 
-My attempt at creating a 3D operational rubik's cube using the [Processing api](processing.org)
+My attempt at creating a 3D operational rubik's cube using the [Processing api](https://processing.org)
